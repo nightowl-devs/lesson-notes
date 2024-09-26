@@ -72,12 +72,12 @@ Zamieszczanie na stronach WWW tzw. prostych informacji prasowych np,.
 
 # Jakie działania są chronione
 
-- Prawo autorskie c`hroni twórczość wszystkich osób` – niezależnie od wieku, płci i wykształcenia. Prawa do swojego utworu może mieć także małoletni, a nawet osoba pozbawiona praw publicznych czy ubezwłasnowolniona z powodu choroby psychicznej.
+- Prawo autorskie `chroni twórczość wszystkich osób` – niezależnie od wieku, płci i wykształcenia. Prawa do swojego utworu może mieć także małoletni, a nawet osoba pozbawiona praw publicznych czy ubezwłasnowolniona z powodu choroby psychicznej.
 - Z punktu widzenia prawa autorskiego, `nie ma znaczenia wartość utworu`, nakład pracy włożony w jego stworzenie, jego poziom artystyczny czy naukowy. Istotne jest jedynie to, aby utwór wyrażał osobiste piętno twórcy i jego indywidualny zamysł; nie może być kopią czegokolwiek.
 
 # Licencja
 
-Licencja to `umowa`, w której autor utworu lub ktoś, kto ma do niego prawa autorskie (np. producent oprogramowania), określa ę, na jakich pozwala odbiorcy utworu (np. użytkownikowi oprogramowania z niego korzystać)
+Licencja to `umowa`, w której autor utworu lub ktoś, kto ma do niego prawa autorskie (np. producent oprogramowania), określa  , na jakich pozwala odbiorcy utworu (np. użytkownikowi oprogramowania z niego korzystać)
 
 # Zawarcie umowy licencyjnej
 
@@ -85,11 +85,27 @@ W przypadku programów komputerowych zawarcie umowy licencyjnej następuje poprz
 
 W Internecie z kolei praktykowane są tzw. `licencje click-on.` Treść licencji jest wyświetlana na stronie WWW, a użytkownik potwierdza zgodę na jej warunki przed kliknięciem na odpowiedni przycisk ekranowy. W ten sposób użytkownik zgadza się na przedstawione warunki korzystania z oprogramowania lub innych treści dostępnych na stronie internetowej, np. do pobrania (download).
 
-Ogólną zasadą jest posiadanie o`ddzielnych licencji na każde stanowisko komputerowe`. Nie można równocześnie instalować danego programu z pojedynczą licencją na wielu komputerach, np. na własnym i u kolegi.
+Ogólną zasadą jest posiadanie `oddzielnych licencji na każde stanowisko komputerowe`. Nie można równocześnie instalować danego programu z pojedynczą licencją na wielu komputerach, np. na własnym i u kolegi.
 
+# Rodzaje licencji
 
+- Public domain - oprogramowanie udostępnione darmowo na użytek ogółu jako tzw. dobro publiczne. Dozwolona jest dalsza dystrybucja takich programów bez zgody autora.
+- Shareware - określenie prawnego statusu, pod jakim dany program jest rozpowszechniany. Autorzy programów shareware'owych udostępniają bezpłatnie swoje dzieła do testów. Każdy przyszły nabywca przed podjęciem decyzji o zakupie może gruntownie sprawdzić w działaniu zazwyczaj w pełni funkcjonalną wersję. Część tego typu programów ma jednak pewne ograniczenia, najczęściej jest to limitowany czas na testowanie takiej aplikacji.
+- Powszechna Licencja Publiczna GNU (General Public License) - na jej zasadzie rozpowszechniany jest słynny Linux i darmowe oprogramowanie linuxowe. Podstawową zasadą jest w niej dostępność dla wszystkich użytkowników kodu źródłowego i możliwość jego modyfikacji i udoskonalania. Zmodyfikowane programy można rozpowszechniać dalej, ale pod warunkiem dołączenia do zmodyfikowanej wersji oryginalnego kodu źródłowego.
+- Licencja grupowa (Site License) - zakupiony program może być używany w sieci lub innym zestawie komputerów, np. w szkolnej pracowni, w określonej liczbie, tzn. zainstalowany na maksymalnej liczbie stanowisk. Podobna zasada obowiązuje dla programów sprzedawanych z licencją sieciową (Network License).
+- Licencja jednostanowiskowa (One-site license) - uprawnienia do zainstalowania oprogramowania tylko na jednym stanowisku komputerowym. Użytkownikowi nie wolno udostępniać takiego oprogramowania w sieci ani używać na więcej niż jednym komputerze w tym samym czasie. Umożliwia sporządzenie kopii zapasowej oprogramowania.
+- Licencja na obszar - umowa między producentem a nabywcą, uprawniająca nabywcę do sporządzenia określonej liczby kopii na własny użytek. Na przykład, firmy korzystające z sieci lokalnych LAN mogą używać oprogramowania na wielu stanowiskach komputerowych.
 
----
-# credits:
-# stasiek & sigma od zawodowych (XD)
-pozdro
+# Formy Ograniczeń Licencji
+
+- Trialware - program po zainstalowaniu jest w pełni sprawny i działają wszystkie jego komponenty, ale tylko przez określony czas od dnia instalacji w systemie, przeciętnie od 30 do 90 dni. Po tym okresie, o ile użytkownik nie wprowadzi zakupionego u producenta specjalnego kodu, program przestaje się uruchamiać i trzeba go odinstalować.
+- Demo - program po zainstalowaniu nie ma żadnych ograniczeń czasowych, ale część jego funkcji jest niedostępna, co obniża jego wartość użytkową. Daje jednak ogólne pojęcie o jego możliwościach. Zakupienie u producenta kodu rejestracyjnego odblokowuje niedostępne opcje, czyniąc program w pełni użytecznym.
+- Limit uruchomień - program po zainstalowaniu jest w pełni sprawny, ale ma limit uruchomień, przeciętnie nie więcej niż 100. Dotyczy to często małych programów użytkowych, poprawiających w różny sposób funkcjonalność systemu operacyjnego.
+- Komunikaty o rejestracji - Program po instalacji nie ma żadnych ograniczeń czasowych, funkcyjnych ani uruchomieniowych, ale za to każdorazowo podczas startu, jak i przy korzystaniu z niego, samoczynnie wyświetla komunikat przypominający o konieczności rejestracji programu.
+- Program po zainstalowaniu nie ma żadnych ograniczeń czasowych czy funkcyjnych. Autor zwyczajnie liczy na uczciwość użytkownika, oczekując, że dostosuje się on do regulaminu i we właściwym czasie zarejestruje program lub usunie go z systemu.
+- Adware - to programy, za które użytkownik nie płaci, ale developerzy czerpią zyski z tych programów poprzez umieszczanie w nich reklam. Jeśli użytkownik jest zadowolony, może im się odwdzięczyć, wchodząc na reklamę sponsora. Większość autorów adware proponuje usunięcie reklam za niewielką opłatą.
+- Postcardware - postcardware lub cardware to określenie pewnego prawnego statusu, pod jakim autor programu rozpowszechnia swoją aplikację. Wymaga on, aby użytkownik chcący korzystać z programu wysłał do autora, tytułem zapłaty, kartkę pocztową, najlepiej z widokiem swego rodzinnego miasta i krótką opinią na temat programu.
+
+# Odpowiedzialność karna za przestępstwa komputerowe.
+
+- Włamywanie się do komputera – co grozi za włamanie się do cudzego komputera, np. serwera szkolnego? Nieuprawnione wejście do systemu komputerowego jest potocznie określone mianem hackingu. W polskim prawie przestępstwo hackingu jest to tzw. przestępstwo przeciwko informacji i jest traktowane na równi z naruszeniem tajemnicy korespondencji. Grozi za nie nawet do dwóch lat więzienia. Odpowiedzialności karnej mogą podlegać już przygotowania do samego włamania do systemu komputerowego, jak np. przełamanie zabezpieczeń i uzyskanie hasła dostępu, które jest informacją warunkującą nieuprawnione wejście.
